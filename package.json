@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-reference",
+  "version": "1.0.0",
+  "description": "A database of pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachd/pokemon-reference.git"
+  },
+  "author": "Rachel Dorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachd/pokemon-reference/issues"
+  },
+  "homepage": "https://github.com/rachd/pokemon-reference#readme"
+}
